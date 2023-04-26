@@ -1,0 +1,5 @@
+firebase_admin
+flask
+pycodestyle
+pytz
+flask-cors
